@@ -1,3 +1,1 @@
-# Turma pit-01
-
-# Curso Qualiti de Desenvolvimento Web com React.js
+To-Do list desenvolvido durante curso de React.js da Qualiti
